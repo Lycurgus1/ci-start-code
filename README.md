@@ -12,6 +12,7 @@
 **Generate first on local system**
 - Go to your user folder, then .ssh folder
 - 'ssh-keygen -t rsa -b 4096 -C "max.palmer.official@outlook.com"'
+	- Use email associated with github account
 - Enter name then leave passphrase empty
 - 'cat max.pub'
 - Copy all of the encryted key
