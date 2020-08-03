@@ -8,7 +8,7 @@
 - We have two types of repos ```Public repo```, not secured
 - Second is ```Private repo```, secured
 
-## Generating SSH key**
+## Generating SSH key
 **Generate first on local system**
 - Go to your user folder, then .ssh folder
 - 'ssh-keygen -t rsa -b 4096 -C "max.palmer.official@outlook.com"'
@@ -22,4 +22,4 @@
 - Name key and paste encrypted key into box
 	- Name key with descriptive name - jenkins, docker, ansible etc. 
 - Save key with green button. Dont click write access
-- Will then recceive email confirming key entered
+- Will then receive email confirming key entered
